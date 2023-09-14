@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1537812381/android.flutter_inappwebview.iml" filepath="$PROJECT_DIR$/.idea/modules/-1537812381/android.flutter_inappwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1537812381/android.flutter_inappwebview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1537812381/android.flutter_inappwebview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1537812381/android.flutter_inappwebview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1537812381/android.flutter_inappwebview.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1404650268/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/-1404650268/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1404650268/android.fluttertoast.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1404650268/android.fluttertoast.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1404650268/android.fluttertoast.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1404650268/android.fluttertoast.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1902048884/android.url_launcher_android.iml" filepath="$PROJECT_DIR$/.idea/modules/1902048884/android.url_launcher_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1902048884/android.url_launcher_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/1902048884/android.url_launcher_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1902048884/android.url_launcher_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/1902048884/android.url_launcher_android.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/371740809/io.flutter.plugins.webviewflutter.android.webview_flutter_android.iml" filepath="$PROJECT_DIR$/.idea/modules/371740809/io.flutter.plugins.webviewflutter.android.webview_flutter_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/371740809/io.flutter.plugins.webviewflutter.android.webview_flutter_android.main.iml" filepath="$PROJECT_DIR$/.idea/modules/371740809/io.flutter.plugins.webviewflutter.android.webview_flutter_android.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/371740809/io.flutter.plugins.webviewflutter.android.webview_flutter_android.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/371740809/io.flutter.plugins.webviewflutter.android.webview_flutter_android.unitTest.iml" />
+    </modules>
+  </component>
+</project>
